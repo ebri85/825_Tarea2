@@ -1,0 +1,35 @@
+Tarea #2
+Objetivo:
+Que el estudiante utilice re
+cursividad para resolver problemas comunes utilizando el lenguaje
+Java.
+Explicación:
+La recursividad es una técnica de programación que permite que un bloque de instrucciones se
+ejecute n veces. Java nos permite utilizar recursividad ya que en este lenguaje es posible que
+un método se invoque a sí mismo. Debe quedar claro que no se trata de iteración como la que
+utilizan otras estructuras como el for, while, etc.
+
+Desarrollo:
+Se deberá crear una aplicación Java, donde el usuario podrá utilizar un menú con las
+siguientes opciones:
+● 	Definir tamaño de  un vector de números enteros.
+● 	Llenar de elementos el vector.
+● 	Multiplicar los elementos del vector (mostrar el resultado utilizando recursividad).
+●	Salir.
+
+Ejemplo:
+1. 	El usuario digita el tamaño del vector: 4
+2. El usuario llena el vector con los siguientes valores: 4 – 15 – 87 - 142
+3. Resultado de la multiplicación: 741,240
+
+
+Deben incluirse validacion
+es para que el programa nunca dé errores numéricos ni de otro tipo.
+Rúbrica:
+Aspecto a calificar
+Porcentaje
+Uso de menú 							10
+Validaciones							20
+Uso de recursividad						50
+Documentación interna					10
+Ejecución correcta de la aplicación		10
